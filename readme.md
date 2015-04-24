@@ -4,11 +4,11 @@ Nicole，现在还是小萝莉，不过是未来的世界首富。这个主页�
 
 阅读
 -----------------------------------
-* [Nicole语录本体]()
+* [Nicole语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
 
 发现更多
 -----------------------------------
-* [WDL的wiki]()
+* [WDL的wiki](https://github.com/sg-first/Doge_Quotations/blob/master/WDL_wiki.md)
 
 Nicole Quotes
 ===================================
@@ -20,4 +20,4 @@ Modular
 
 Find more
 -----------------------------------
-* [WDL's wiki (English)]()
+* [WDL's wiki](https://github.com/sg-first/Doge_Quotations/blob/master/WDL_wiki.md)

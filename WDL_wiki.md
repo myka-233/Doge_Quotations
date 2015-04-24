@@ -29,13 +29,9 @@ WDL其人
 * 大量制作外挂的视频教程
 * 不详
 
-图片
------------------------------------
-[image]: http://img1.imgtn.bdimg.com/it/u=3480440259,1931991290&fm=21&gp=0.jpg "未经证实的来源请求"
-
 语录（中日文对照）
 -----------------------------------
-* [WDL语录本体]()
+* [WDL语录本体](https://github.com/sg-first/Doge_Quotations/blob/master/WDL_Quotations.md)
 
 Other
 -----------------------------------
